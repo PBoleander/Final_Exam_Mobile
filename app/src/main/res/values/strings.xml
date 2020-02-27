@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Final Exam</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo_task_details">Todo Task Details</string>
+    <string name="is_complete">Is complete</string>
+    <string name="change_visibility">Change visibility</string>
+    <string name="complete">Complete</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
